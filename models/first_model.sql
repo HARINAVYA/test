@@ -1,0 +1,1 @@
+SELECT max(spent) as spent FROM TEST_DB.PUBLIC.customers
